@@ -12,7 +12,7 @@ I work with global clients and government organizations to solve real-world prob
 ### 📫 Contact
 - **Email:** abdulhaleemk03@gmail.com  
 - **GitHub:** https://github.com/Abdul-Haleem-Khan-RS-GIS  
-- **LinkedIn:** *(add your link here)*  
+- **LinkedIn:** www.linkedin.com/in/abdul-haleem-khan-rs-gis-specialist 
 
 ---
 
@@ -100,18 +100,10 @@ I work with global clients and government organizations to solve real-world prob
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Haleem-Khan-RS-GIS&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haleem-Khan-RS-GIS&layout=compact" height="150"/>
-</p>
-
----
 
 ## 📁 Featured Repositories
 - **GIS Engineering Portfolio**  
 - **NPS Map Redesign – ArcGIS Pro**  
-- **Resume Repository**  
 
 ---
 
