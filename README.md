@@ -1,9 +1,122 @@
 <h1 align="center">Hi 👋, I'm Abdul Haleem Khan</h1>
-<h3 align="center">A passionate GIS Engineer from Saudi Arabia</h3>
+<h3 align="center">GIS Engineer | Remote Sensing Specialist | Spatial Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-haleem-khan-rs-gis&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-haleem-khan-rs-gis" /> </p>
+---
 
-#GIS Engineer | Remote Sensing | Spatial Analysis | Data Visualization<br>Passionate GIS professional with expertise in spatial data analysis, remote sensing, and cartographic visualization. Experienced in applying geospatial technologies for urban planning, environmental monitoring, and land-use analysis.<br><br>📍 Location: Uyun Al Jawa, Saudi Arabia<br>📧 Email: abdulhaleemk03@gmail.com<br>🌐 GitHub: https://github.com/Abdul-Haleem-Khan-RS-GIS<br><br>📚 Education<br>🎓 MSc in Geographic Information Systems – University of the Punjab (2020 - 2022)<br><br>🛠️ Skills<br>Geographic Information Systems (GIS) (ArcGIS, QGIS)<br>Remote Sensing (ENVI, Google Earth Engine, Sentinel & Landsat Data)<br>Spatial Analysis & Mapping<br>Python for GIS (Geopandas, Rasterio, GDAL)<br>Data Visualization (Tableau, Power BI, Matplotlib)<br>Web GIS & Cartography<br>GPS & Field Data Collection<br>💼 Work Experience<br>GIS Engineer – Municipality Uyun Al Jawa (Present)<br>Conduct geospatial analysis for municipal planning.<br>Develop and manage GIS databases.<br>Automate spatial workflows using Python.<br>Provide cartographic solutions for urban development.<br>Junior GIS Expert – NESPAK (1 Month)<br>Assisted in spatial data management.<br>Conducted geostatistical analysis for engineering projects.<br>GIS Analyst – Shehersaaz (2 Years)<br>Developed GIS-based solutions for land-use planning.<br>Conducted spatial risk assessments and suitability analysis.<br>Freelance GIS Analyst (Upwork, Remote)<br>Executed GIS-based projects for international clients.<br>Created interactive maps and dashboards.<br>Performed spatial modeling and land-use classification.<br>🚀 Projects<br>1. Urban Sprawl Trend in Mardan City, Pakistan<br>Analyzed urban expansion using remote sensing techniques.<br>Applied supervised classification to detect land-use changes.<br>2. Site Selection for Solar Power Plant (University of the Punjab)<br>Used GIS and Multi-Criteria Decision Analysis (MCDA) to determine optimal locations.<br>Evaluated terrain, solar exposure, and proximity to infrastructure.<br>3. Land Surface Temperature (LST) Analysis for New York City<br>Processed Landsat 8 imagery to analyze urban heat islands.<br>Conducted thermal remote sensing for environmental assessment.<br>4. Carbon Emission Monitoring using AI & Satellite Data<br>Utilized Sentinel-5P data to monitor CO2 emissions.<br>Integrated AI models for trend analysis.<br>5. Master Plan of Different Cities of Punjab<br>Duration: January 2023 – August 2023 Supervised by: Punjab Intermediate Cities Improvement Program (PICIP)<br><br>Contributed to the development of master plans for multiple cities in Punjab, focusing on urban expansion, land use planning, infrastructure development, and sustainability.<br>Utilized GIS-based spatial analysis to assess urban growth, optimize zoning regulations, and enhance urban resilience.<br>Provided data-driven insights for policy-making and future city planning.<br>6. Master Plan of Different Cities of Khyber Pakhtunkhwa (KPK)<br>Duration: May 2022 – February 2023 Supervised by: Urban Policy Unit (UPU)<br><br>Worked on the spatial and strategic planning for various cities in Khyber Pakhtunkhwa (KPK), integrating GIS technology to analyze urban trends, transportation networks, and environmental constraints.<br>Assisted in land-use classification, site selection, and geospatial modeling to support sustainable urban growth.<br>7. Cadastral Mapping of Different Cities of Punjab<br>Duration: May 2023 – April 2024 Supervised by: Punjab Urban Land Systems Enhancement (PULSE)<br><br>Led cadastral mapping projects to modernize land records and improve land management practices across multiple cities in Punjab.<br>Utilized high-resolution satellite imagery, GNSS data, and GIS techniques to digitize land parcels, resolve land disputes, and assist in property taxation.<br>Enhanced urban governance by providing accurate geospatial data for decision-making.
+### 🌍 About Me
+Passionate GIS Engineer based in **Uyun Al Jawa, Saudi Arabia**, with strong expertise in **spatial analysis, remote sensing, cartography, and geospatial automation**.  
+I work with global clients and government organizations to solve real-world problems using geospatial technology.
+
+---
+
+### 📫 Contact
+- **Email:** abdulhaleemk03@gmail.com  
+- **GitHub:** https://github.com/Abdul-Haleem-Khan-RS-GIS  
+- **LinkedIn:** *(add your link here)*  
+
+---
+
+## 🎓 Education
+**MSc in Geographic Information Systems (GIS)**  
+*University of the Punjab (2020–2022)*
+
+---
+
+## 🛠️ Skills
+- **GIS Software:** ArcGIS Pro, QGIS  
+- **Remote Sensing:** ENVI, Google Earth Engine, Landsat, Sentinel  
+- **Spatial Analysis:** Suitability modeling, LULC classification, geostatistics  
+- **Programming:** Python (GeoPandas, Rasterio, GDAL), JavaScript for GEE  
+- **Databases:** PostgreSQL/PostGIS, MySQL  
+- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Web Mapping:** Leaflet, ArcGIS Online  
+- **Field Skills:** GPS/GNSS, data collection & surveying  
+
+---
+
+## 💼 Work Experience
+
+### **GIS Engineer – Municipality Uyun Al Jawa (Present)**
+- Perform geospatial analysis for urban and infrastructure planning.  
+- Maintain and manage GIS databases.  
+- Automate spatial workflows using Python.  
+- Create professional maps and dashboards for decision-making.
+
+### **Junior GIS Expert – NESPAK**
+- Assisted in spatial modeling and geostatistical analysis.  
+- Supported engineering teams with geospatial datasets.
+
+### **GIS Analyst – Shehersaaz (2 Years)**
+- Carried out land-use planning and spatial risk assessments.  
+- Developed GIS-based solutions for environmental and urban development.
+
+### **Freelance GIS Analyst (Upwork)**
+- Delivered GIS/RS projects for international clients.  
+- Built interactive dashboards, suitability models, and geospatial visualizations.
+
+---
+
+## 🚀 Projects
+
+### **1. Urban Sprawl Trend – Mardan City, Pakistan**
+- Analyzed multi-year satellite imagery to detect urban expansion.  
+- Applied supervised classification and change detection.
+
+### **2. Solar Power Plant Site Selection**
+- Used MCDA and GIS to identify optimal solar farm locations.  
+- Evaluated slope, aspect, solar radiation, and infrastructure.
+
+### **3. Land Surface Temperature (LST) – New York City**
+- Processed Landsat 8 thermal bands.  
+- Identified hotspots and urban heat island zones.
+
+### **4. Carbon Emission Monitoring Using AI + Satellite Data**
+- Used Sentinel-5P to monitor CO₂ concentration.  
+- Integrated machine-learning models for time-series analysis.
+
+### **5. Master Plan Projects – Punjab (PICIP)**
+- Contributed to zoning, land-use planning, and spatial growth modeling.
+
+### **6. Master Planning – Khyber Pakhtunkhwa (UPU)**
+- Supported strategic planning for multiple cities.  
+- Worked on transport, environment, and land-use datasets.
+
+### **7. Cadastral Mapping – Punjab (PULSE)**
+- Digitized land parcels using high-resolution imagery.  
+- Improved land records, tax mapping, and dispute resolution.
+
+---
+
+## 🧰 Tech Stack
+| Category | Tools |
+|---------|-------|
+| **GIS** | ArcGIS Pro, QGIS |
+| **Remote Sensing** | ENVI, GEE, Sentinel/Landsat |
+| **Programming** | Python, R, JavaScript |
+| **Databases** | PostgreSQL, MySQL |
+| **Visualization** | Power BI, Tableau |
+| **Web GIS** | Leaflet, ArcGIS Online |
+| **Backend** | .NET, Apache |
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Haleem-Khan-RS-GIS&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haleem-Khan-RS-GIS&layout=compact" height="150"/>
+</p>
+
+---
+
+## 📁 Featured Repositories
+- **GIS Engineering Portfolio**  
+- **NPS Map Redesign – ArcGIS Pro**  
+- **Resume Repository**  
+
+---
+
+⭐ *If you like my work, feel free to star my repositories or connect with me!*  
+
 
 
 ## 🌐 Socials:
