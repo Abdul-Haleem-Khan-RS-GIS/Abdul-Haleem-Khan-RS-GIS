@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Haleem Khan</h1>
-<h3 align="center">GIS Engineer | Remote Sensing Specialist | Spatial Analyst</h3>
+<h3 align="center">GIS Engineer | Remote Sensing Specialist | GIS Analyst</h3>
 
 ---
 
