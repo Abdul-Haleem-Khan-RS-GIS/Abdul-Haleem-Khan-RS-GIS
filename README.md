@@ -1,12 +1,11 @@
-<div align="center">
+
 
 <!-- BANNER — replace this with a Canva-designed image and upload to your repo -->
 <!-- Suggested Canva size: 1280×400px, dark green + satellite imagery theme -->
 
-```
+![Banner]([https://raw.githubusercontent.com/.../geospatial-banner.png](https://github.com/Abdul-Haleem-Khan-RS-GIS/Abdul-Haleem-Khan-RS-GIS/blob/d76d8f6eb84e567adfd4a5ee0b3c1bcab5690122/geospatial-banner.png))
 
-
-```
+<div align="center">
 
 # Hi 👋, I'm **Abdul Haleem Khan**
 ### GIS Engineer · Remote Sensing Specialist · Geospatial Data Analyst
