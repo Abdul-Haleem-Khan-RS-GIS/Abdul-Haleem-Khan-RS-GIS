@@ -4,7 +4,7 @@
 <!-- Suggested Canva size: 1280×400px, dark green + satellite imagery theme -->
 
 ```
-![Image Alt]([image_url](https://github.com/Abdul-Haleem-Khan-RS-GIS/Abdul-Haleem-Khan-RS-GIS/blob/955cb39a2d3fe4a671790a51f5710202ac7e17c6/Geospatial%20Banner.png))
+
 
 ```
 
