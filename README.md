@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-haleem-khan-rs-gis-specialist/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhaleemk03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-00e5a0?style=for-the-badge&labelColor=0d1117)](https://abdul-haleem-khan-rs-gis.github.io/Abdul-Haleem-Khan-Portfolio/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abdulhaleemrsgis)
 
 </div>
 
@@ -218,14 +218,14 @@ I am available for freelance GIS & Remote Sensing projects from rapid mapping ta
 | 💼 **LinkedIn** | [linkedin.com/in/abdul-haleem-khan-rs-gis-specialist](https://www.linkedin.com/in/abdul-haleem-khan-rs-gis-specialist/) |
 | 🐙 **GitHub** | [github.com/Abdul-Haleem-Khan-RS-GIS](https://github.com/Abdul-Haleem-Khan-RS-GIS) |
 | 🌐 **Portfolio** | [abdul-haleem-khan-rs-gis.github.io/Abdul-Haleem-Khan-Portfolio](https://abdul-haleem-khan-rs-gis.github.io/Abdul-Haleem-Khan-Portfolio/) |
-| 💰 **Upwork** | [Hire Me on Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID) |
+| 💰 **Upwork** | [Hire Me on Upwork]([https://www.upwork.com/freelancers/~YOUR_UPWORK_ID](https://www.upwork.com/freelancers/abdulhaleemrsgis)) |  
 | 📍 **Location** | Uyun Al Jawa, Saudi Arabia · Working globally |
 
 <br/>
 
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub-GIS_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio)
 [![Spatial Showcase](https://img.shields.io/badge/GitHub-Spatial_Showcase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abdulhaleemrsgis)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-00e5a0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhaleemk03@gmail.com)
 
 <br/>
