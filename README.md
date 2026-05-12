@@ -92,7 +92,7 @@ Clients         →  Punjab Govt (PICIP/PULSE) · KPK Govt (UPU) · NESPAK · Up
 | 📐 | [**Cadastral Mapping - Punjab (PULSE)**](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio) | Land parcel digitization for government land records | `ArcGIS` `High-Res Imagery` |
 | 👶 | [**Daycare Accessibility - Zurich**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase) | Social infrastructure gap analysis across the city | `Service Area Analysis` `QGIS` `OSM` |
 
-> 📂 **Full portfolio with scripts, maps & methodology:** [GIS-RemoteSensing-Portfolio →](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio) · [Spatial Analysis Showcase →](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase)
+> 📂 **Full portfolio with scripts, maps & methodology:** [Spatial Analysis Showcase →](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase)
 
 ---
 
