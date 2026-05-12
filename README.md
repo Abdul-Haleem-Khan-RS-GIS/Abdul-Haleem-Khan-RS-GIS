@@ -86,11 +86,11 @@ Clients         →  Punjab Govt (PICIP/PULSE) · KPK Govt (UPU) · NESPAK · Up
 | 🏙️ | [**Urban Sprawl - Mardan City**](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio) | Multi-year change detection to quantify urban expansion | `Landsat` `Python` `ArcGIS` |
 | ☀️ | [**Solar Power Site Selection**](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio) | MCDA suitability modeling for renewable energy location | `QGIS` `Python` `ArcGIS` |
 | 🔥 | [**Burn Severity Analysis**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase) | Wildfire damage mapping using pre/post Sentinel-2 imagery | `NBR` `dNBR` `Sentinel-2` `ArcGIS` |
-| 🗺️ | [**Riyadh Postcode Mapping**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase) | Accurate Saudi postal boundaries in GeoJSON format | `QGIS` `GeoJSON` `ArcGIS Pro` |
-| 🚲 | [**Bike Route Network Analysis**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase) | Optimal urban cycling paths accounting for elevation & terrain | `Network Analyst` `OSM` `ArcGIS Pro` |
+| 🗺️ | [**Riyadh Postcode Mapping**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase/tree/97b99f7e7ebbf9978d8e453ff8b48c46c989af1c/Category-B-Cartography/Riyadh-Postcode-Mapping) | Accurate Saudi postal boundaries in GeoJSON format | `QGIS` `GeoJSON` `ArcGIS Pro` |
+| 🚲 | [**Bike Route Network Analysis**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase/tree/97b99f7e7ebbf9978d8e453ff8b48c46c989af1c/Category-D-Network-GIS/Bike-Route-Network-Analysis) | Optimal urban cycling paths accounting for elevation & terrain | `Network Analyst` `OSM` `ArcGIS Pro` |
 | 🏛️ | [**Master Plans - Punjab & KPK**](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio) | Strategic spatial planning for provincial governments | `ArcGIS` `QGIS` `Python` |
 | 📐 | [**Cadastral Mapping - Punjab (PULSE)**](https://github.com/Abdul-Haleem-Khan-RS-GIS/GIS-RemoteSensing-Portfolio) | Land parcel digitization for government land records | `ArcGIS` `High-Res Imagery` |
-| 👶 | [**Daycare Accessibility - Zurich**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase) | Social infrastructure gap analysis across the city | `Service Area Analysis` `QGIS` `OSM` |
+| 👶 | [**Daycare Accessibility - Zurich**](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase/tree/97b99f7e7ebbf9978d8e453ff8b48c46c989af1c/Category-B-Cartography/Zurich-Demographics) | Social infrastructure gap analysis across the city | `Service Area Analysis` `QGIS` `OSM` |
 
 > 📂 **Full portfolio with scripts, maps & methodology:** [Spatial Analysis Showcase →](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase)
 
