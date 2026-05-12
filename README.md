@@ -127,7 +127,7 @@ Clients         →  Punjab Govt (PICIP/PULSE) · KPK Govt (UPU) · NESPAK · Up
 </details>
 
 <details>
-<summary><b>🏙️ Category C — Urban GIS & Spatial Analysis</b> · City-scale planning & strategy</summary>
+<summary><b>🏙️ Category C - Urban GIS & Spatial Analysis</b> · City-scale planning & strategy</summary>
 <br>
 
 | Project | Tools |
