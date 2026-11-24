@@ -16,7 +16,7 @@ I turn satellite imagery and spatial data into maps and analysis people can act 
 
 Also: [1-ft Contours to CAD (DWG + SHP)](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase/tree/main/05-GIS-Data-Engineering-and-CAD/nc-contours-to-cad)
 
-**All 41 projects by category:** [spatial-analysis-showcase](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase)
+**All 40 projects by category:** [spatial-analysis-showcase](https://github.com/Abdul-Haleem-Khan-RS-GIS/spatial-analysis-showcase)
 
 ## Repositories
 
